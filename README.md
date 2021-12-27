@@ -5,6 +5,11 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+Working with API's
+Working with FutureBiulder
+working with json
+
+
 # ScreenShots
 ![Screenshot_2021-12-28-00-02-16-48_067ca54d029a1c65bea8d27590265e45](https://user-images.githubusercontent.com/92022741/147500014-1c4a48b8-febe-4b72-a017-e307edbe3ef4.jpg)
 ![Screenshot_2021-12-28-00-02-20-64_067ca54d029a1c65bea8d27590265e45](https://user-images.githubusercontent.com/92022741/147500018-39259fb7-af06-4a59-b98a-db3657a72b4e.jpg)
