@@ -4,10 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-Working with API's
-Working with FutureBiulder
-working with json
+This project is a starting point for a Flutter application,
+Working with API's,
+Working with FutureBiulder,
+working with json.
 
 
 # ScreenShots
